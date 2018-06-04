@@ -20,7 +20,7 @@ body {
 
 .head1 {
   background: linear-gradient(to bottom, transparent 85%, rgb(13, 32, 39) 100%),
-              url(../img/banner1.jpg) no-repeat 15% 100%;
+              url(../img/banner1.JPG) no-repeat 15% 100%;
   background-size: cover;
   height: 600px;
   border-bottom: 3px solid rgb(13, 32, 39);
