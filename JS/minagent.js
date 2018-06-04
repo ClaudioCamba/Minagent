@@ -27,7 +27,7 @@ line.classList.add("add");
 }, 500);
 setTimeout(function(){
 line.classList.add("add2");
-}, 2000);
+}, 2500);
 
 $('.navbar-nav>li>a').on('click', function(){
     $('.navbar-collapse').collapse('hide');
