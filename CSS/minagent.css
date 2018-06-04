@@ -140,7 +140,7 @@ body {
   height: 3px;
   border-top: 2px solid #f9f6ef;
   border-bottom: 2px solid #f9f6ef;
-  transition: 1s ease;
+  transition: 2s ease;
   overflow: hidden;
 }
 .name {
