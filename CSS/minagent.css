@@ -12,7 +12,7 @@ body {
 
 .head1 {
   background: linear-gradient(to bottom, transparent 85%, rgb(13, 32, 39) 100%),
-              url(../img/banner1.jpg) no-repeat 15% 100%;
+              url(../IMG/banner1.jpg) no-repeat 15% 100%;
   background-size: cover;
   height: 600px;
   border-bottom: 3px solid rgb(13, 32, 39);
@@ -132,7 +132,7 @@ body {
   height: 3px;
   border-top: 2px solid #f9f6ef;
   border-bottom: 2px solid #f9f6ef;
-  transition: 1s ease;
+  transition: 2s ease;
   overflow: hidden;
 }
 .name {
